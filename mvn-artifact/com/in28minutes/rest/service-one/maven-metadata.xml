@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.in28minutes.rest</groupId>
+  <artifactId>service-one</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220210101816</lastUpdated>
+  </versioning>
+</metadata>

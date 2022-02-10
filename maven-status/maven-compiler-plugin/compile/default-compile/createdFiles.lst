@@ -1,0 +1,7 @@
+com\in28minutes\rest\dao\UserDAOService.class
+com\in28minutes\rest\entity\User.class
+com\in28minutes\rest\RestWebServiceDemoApplication.class
+com\in28minutes\rest\entity\Post.class
+com\in28minutes\rest\HelloWorld.class
+com\in28minutes\rest\controller\UserController.class
+com\in28minutes\rest\proxy\ServiceTwoFeignClient.class
