@@ -1,7 +1,7 @@
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\entity\Post.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\controller\UserController.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\HelloWorld.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\entity\User.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\dao\UserDAOService.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\RestWebServiceDemoApplication.java
-D:\Git\projects\jenkins-tutorial\src\main\java\com\in28minutes\rest\proxy\ServiceTwoFeignClient.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\HelloWorld.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\entity\User.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\proxy\ServiceTwoFeignClient.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\dao\UserDAOService.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\entity\Post.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\controller\UserController.java
+D:\jenkins\home\workspace\jenkins-maven-project\src\main\java\com\in28minutes\rest\RestWebServiceDemoApplication.java
